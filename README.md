@@ -10,7 +10,8 @@ understandable abstractions.
 
 Most of my public GitHub profile is hobby work and small deliberate projects
 that I do to keep a creative practice---sketches. I wrote a little bit about
-this [here](https://ml8.sh/posts/resting-in-code.html).
+this [here](https://ml8.sh/posts/resting-in-code.html). My professional work is
+mostly private.
 
 Elsewhere:
 
